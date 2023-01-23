@@ -5,6 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Dialog Group Website
     url: https://dialoggroup.eu
+  - name: Digitale Collega Website
+    url: https://digitalecollega.eu
+  - name: Slimme Formulieren Website
+    url: https://slimmeformulieren.eu
   - name: Insurance Demo 2Dialog
     url: https://insurance.2dialog.eu
   - name: Insurance Demo 1Dialog
