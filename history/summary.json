@@ -22,18 +22,20 @@
     "url": "https://digitalecollega.eu",
     "icon": "https://icons.duckduckgo.com/ip3/digitalecollega.eu.ico",
     "slug": "digitale-collega-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3458,
     "timeDay": 3458,
     "timeWeek": 3458,
     "timeMonth": 3458,
     "timeYear": 3458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   },
   {
     "name": "Slimme Formulieren Website",
