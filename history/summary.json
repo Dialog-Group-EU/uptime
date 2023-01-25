@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 1047,
-    "timeWeek": 1047,
-    "timeMonth": 1047,
-    "timeYear": 1047,
+    "time": 960,
+    "timeDay": 701,
+    "timeWeek": 960,
+    "timeMonth": 960,
+    "timeYear": 960,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalecollega.eu.ico",
     "slug": "digitale-collega-website",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 3261,
-    "timeDay": 3261,
-    "timeWeek": 3261,
-    "timeMonth": 3261,
-    "timeYear": 3261,
-    "dailyMinutesDown": {
-      "2023-01-24": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3064,
+    "timeDay": 2671,
+    "timeWeek": 3064,
+    "timeMonth": 3064,
+    "timeYear": 3064,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Slimme Formulieren Website",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1342,
-    "timeDay": 1342,
-    "timeWeek": 1342,
-    "timeMonth": 1342,
-    "timeYear": 1342,
+    "time": 1689,
+    "timeDay": 2385,
+    "timeWeek": 1689,
+    "timeMonth": 1689,
+    "timeYear": 1689,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 1016,
-    "timeWeek": 1016,
-    "timeMonth": 1016,
-    "timeYear": 1016,
+    "time": 976,
+    "timeDay": 775,
+    "timeWeek": 976,
+    "timeMonth": 976,
+    "timeYear": 976,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1068,
-    "timeDay": 1068,
-    "timeWeek": 1068,
-    "timeMonth": 1068,
-    "timeYear": 1068,
+    "time": 1013,
+    "timeDay": 734,
+    "timeWeek": 1013,
+    "timeMonth": 1013,
+    "timeYear": 1013,
     "dailyMinutesDown": {}
   }
 ]
