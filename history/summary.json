@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dialoggroup.eu.ico",
     "slug": "dialog-group-website",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "98.90%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 960,
     "timeDay": 701,
     "timeWeek": 960,
     "timeMonth": 960,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2023-01-25": 11
+      "2023-01-25": 29
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://digitalecollega.eu",
     "icon": "https://icons.duckduckgo.com/ip3/digitalecollega.eu.ico",
     "slug": "digitale-collega-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 3064,
     "timeDay": 2671,
     "timeWeek": 3064,
     "timeMonth": 3064,
     "timeYear": 3064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Slimme Formulieren Website",
@@ -60,19 +62,19 @@
     "url": "https://insurance.2dialog.eu",
     "icon": "https://icons.duckduckgo.com/ip3/insurance.2dialog.eu.ico",
     "slug": "insurance-demo-2-dialog",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2368,
     "timeDay": 5746,
     "timeWeek": 2368,
     "timeMonth": 2368,
     "timeYear": 2368,
     "dailyMinutesDown": {
-      "2023-01-25": 8
+      "2023-01-25": 0
     }
   },
   {
