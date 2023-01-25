@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dialoggroup.eu.ico",
     "slug": "dialog-group-website",
     "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
+    "uptime": "98.07%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
     "time": 960,
     "timeDay": 701,
     "timeWeek": 960,
     "timeMonth": 960,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2023-01-25": 29
+      "2023-01-25": 51
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalecollega.eu.ico",
     "slug": "digitale-collega-website",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.08%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 3064,
     "timeDay": 2671,
     "timeWeek": 3064,
     "timeMonth": 3064,
     "timeYear": 3064,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 24
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://insurance.2dialog.eu",
     "icon": "https://icons.duckduckgo.com/ip3/insurance.2dialog.eu.ico",
     "slug": "insurance-demo-2-dialog",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2368,
-    "timeDay": 5746,
-    "timeWeek": 2368,
-    "timeMonth": 2368,
-    "timeYear": 2368,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
+    "time": 2150,
+    "timeDay": 4038,
+    "timeWeek": 2150,
+    "timeMonth": 2150,
+    "timeYear": 2150,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 22
     }
   },
   {
