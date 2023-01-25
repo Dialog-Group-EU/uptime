@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dialoggroup.eu.ico",
     "slug": "dialog-group-website",
     "status": "up",
-    "uptime": "97.65%",
+    "uptime": "97.66%",
     "uptimeDay": "95.60%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "97.65%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.66%",
     "time": 1017,
     "timeDay": 972,
     "timeWeek": 1017,
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalecollega.eu.ico",
     "slug": "digitale-collega-website",
     "status": "down",
-    "uptime": "97.67%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
+    "uptime": "97.14%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "97.14%",
     "time": 4654,
     "timeDay": 5452,
     "timeWeek": 4654,
     "timeMonth": 4654,
     "timeYear": 4654,
     "dailyMinutesDown": {
-      "2023-01-25": 62
+      "2023-01-25": 77
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/slimmeformulieren.eu.ico",
     "slug": "slimme-formulieren-website",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.40%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 2748,
     "timeDay": 4155,
     "timeWeek": 2748,
     "timeMonth": 2748,
     "timeYear": 2748,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 16
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://insurance.2dialog.eu",
     "icon": "https://icons.duckduckgo.com/ip3/insurance.2dialog.eu.ico",
     "slug": "insurance-demo-2-dialog",
-    "status": "down",
-    "uptime": "98.48%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
-    "time": 1997,
-    "timeDay": 3223,
-    "timeWeek": 1997,
-    "timeMonth": 1997,
-    "timeYear": 1997,
+    "status": "up",
+    "uptime": "97.97%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
+    "time": 2323,
+    "timeDay": 3630,
+    "timeWeek": 2323,
+    "timeMonth": 2323,
+    "timeYear": 2323,
     "dailyMinutesDown": {
-      "2023-01-25": 41
+      "2023-01-25": 55
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://insurance.1dialog.eu",
     "icon": "https://icons.duckduckgo.com/ip3/insurance.1dialog.eu.ico",
     "slug": "insurance-demo-1-dialog",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 1702,
-    "timeDay": 3286,
-    "timeWeek": 1702,
-    "timeMonth": 1702,
-    "timeYear": 1702,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 2729,
+    "timeDay": 5496,
+    "timeWeek": 2729,
+    "timeMonth": 2729,
+    "timeYear": 2729,
     "dailyMinutesDown": {
-      "2023-01-25": 19
+      "2023-01-25": 34
     }
   }
 ]
