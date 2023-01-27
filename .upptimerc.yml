@@ -8,7 +8,7 @@ sites:
   - name: Digitale Collega Website
     url: https://digitalecollega.eu
   - name: Slimme Formulieren Website
-    url: https://slimmeformulieren.nl
+    url: https://slimmeformulieren.eu
   - name: Insurance Demo 2Dialog
     url: https://insurance.2dialog.eu
   - name: Insurance Demo 1Dialog
@@ -29,8 +29,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://dialoggroup.eu/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
