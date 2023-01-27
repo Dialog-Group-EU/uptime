@@ -113,18 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/precisely.com.ico",
     "slug": "engage-one-communicate-eu-central",
     "status": "up",
-    "uptime": "8.07%",
-    "uptimeDay": "8.07%",
-    "uptimeWeek": "8.07%",
-    "uptimeMonth": "8.07%",
-    "uptimeYear": "8.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2467,
     "timeDay": 2467,
     "timeWeek": 2467,
     "timeMonth": 2467,
     "timeYear": 2467,
-    "dailyMinutesDown": {
-      "2023-01-27": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
