@@ -13,6 +13,12 @@ sites:
     url: https://insurance.2dialog.eu
   - name: Insurance Demo 1Dialog
     url: https://insurance.1dialog.eu
+  - name: EngageOne Communicate Authentication API
+  method: POST
+  url: https://usersapi.communicate.engageone.co/authenticate
+  headers:
+    - "Content-Type: application/json"
+  body: '{ "client_id": "$COMMUNICATE_CLIENTID", "secret": "$COMMUNICATE_SECRET", "customer_id": "$COMMUNICATE_CUSTOMERID" }'
     
 assignees: # Users to assign downtime issues (optional)
   - DG-Jorgos
