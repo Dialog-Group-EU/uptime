@@ -25,6 +25,7 @@ sites:
     method: GET
     url: $COMMUNICATE_EUCENTRAL_URL
     headers:
+      - "Ocp-Apim-Subscription-Key: $DG_AZURE_API_KEY"
       - "client_id: $COMMUNICATE_CLIENTID"
       - "secret: $COMMUNICATE_SECRET"
       - "customer_id: $COMMUNICATE_CUSTOMERID"
