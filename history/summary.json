@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/slimmeformulieren.eu.ico",
     "slug": "slimme-formulieren-website",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1569,
     "timeDay": 596,
     "timeWeek": 1569,
     "timeMonth": 1569,
     "timeYear": 1569,
-    "dailyMinutesDown": {
-      "2023-01-27": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Insurance Demo 2Dialog",
