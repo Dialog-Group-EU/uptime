@@ -14,8 +14,9 @@ sites:
   - name: Insurance Demo 1Dialog
     url: https://insurance.1dialog.eu
   - name: EngageOne Communicate Authentication API
+    icon: https://icons.duckduckgo.com/ip3/precisely.com.ico
     method: POST
-    url: https://usersapi.communicate.engageone.co/authenticate
+    url: $COMMUNICATE_AUTHAPI_URL
     headers:
       - "Content-Type: application/json"
     body: '{ "client_id": "$COMMUNICATE_CLIENTID", "secret": "$COMMUNICATE_SECRET", "customer_id": "$COMMUNICATE_CUSTOMERID" }'
