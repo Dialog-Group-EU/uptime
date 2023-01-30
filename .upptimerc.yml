@@ -30,7 +30,7 @@ sites:
       - "secret: $COMMUNICATE_SECRET"
       - "customer_id: $COMMUNICATE_CUSTOMERID"
   - name: Chatlayer
-    icon: https://icons.duckduckgo.com/ip3/chatlayer.ai
+    icon: https://icons.duckduckgo.com/ip3/docs.chatlayer.ai.ico
     url: https://api.chatlayer.ai
     
 assignees: # Users to assign downtime issues (optional)
