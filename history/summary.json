@@ -58,18 +58,20 @@
     "url": "https://insurance.2dialog.eu",
     "icon": "https://icons.duckduckgo.com/ip3/insurance.2dialog.eu.ico",
     "slug": "insurance-demo-2-dialog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1373,
-    "timeDay": 852,
-    "timeWeek": 1373,
-    "timeMonth": 1373,
-    "timeYear": 1373,
-    "dailyMinutesDown": {}
+    "time": 1354,
+    "timeDay": 842,
+    "timeWeek": 1354,
+    "timeMonth": 1354,
+    "timeYear": 1354,
+    "dailyMinutesDown": {
+      "2023-01-30": 0
+    }
   },
   {
     "name": "Insurance Demo 1Dialog",
