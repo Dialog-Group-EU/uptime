@@ -1,7 +1,7 @@
 url: https://insurance.1dialog.eu
-status: down
-code: 500
-responseTime: 36
-lastUpdated: 2023-01-30T09:54:55.834Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2023-01-30T10:12:58.222Z
 startTime: Mon Jan 23 2023 12:42:20 GMT+0100 (Central European Standard Time)
 generator: Upptime <https://github.com/upptime/upptime>
