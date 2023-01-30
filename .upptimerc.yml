@@ -43,8 +43,8 @@ status-website:
   #baseUrl: /uptime
   logoUrl: https://dialoggroup.eu/wp-content/uploads/2019/05/cropped-favicon-dialog-groep-180x180.png #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dialog Group Status
-  introTitle: "**Status page** of Dialog Group."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Status Monitoring page** of Dialog Group."
+  introMessage: On this page are most services and platforms used by Dialog Group. In case of any problems with your product or services, do not hesitate to contact [customer support](https://customersupport.dialoggroup.eu).
   navbar:
     - title: Status
       href: /
