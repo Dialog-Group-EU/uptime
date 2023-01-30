@@ -30,6 +30,12 @@ sites:
       - "client_id: $COMMUNICATE_CLIENTID"
       - "secret: $COMMUNICATE_SECRET"
       - "customer_id: $COMMUNICATE_CUSTOMERID"
+  - name: EngageOne Video EU-West Prod
+    icon: https://icons.duckduckgo.com/ip3/precisely.com.ico
+    url: https://eu-west-1-mt-prod2.engageone.video/statuscheck/videoPlayer.php
+  - name: EngageOne Video EU-West Pre-Prod
+    icon: https://icons.duckduckgo.com/ip3/precisely.com.ico
+    url: https://eu-west-1-mt-preprod2.engageone.video/statuscheck/videoPlayer.php
   - name: Chatlayer
     icon: https://icons.duckduckgo.com/ip3/docs.chatlayer.ai.ico
     url: https://api.chatlayer.ai
