@@ -29,6 +29,8 @@ sites:
       - "client_id: $COMMUNICATE_CLIENTID"
       - "secret: $COMMUNICATE_SECRET"
       - "customer_id: $COMMUNICATE_CUSTOMERID"
+  - name: Chatlayer
+    url: https://api.chatlayer.ai
     
 assignees: # Users to assign downtime issues (optional)
   - DG-Jorgos
