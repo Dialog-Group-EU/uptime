@@ -58,19 +58,19 @@
     "url": "https://insurance.2dialog.eu",
     "icon": "https://icons.duckduckgo.com/ip3/insurance.2dialog.eu.ico",
     "slug": "insurance-demo-2-dialog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1354,
-    "timeDay": 842,
-    "timeWeek": 1354,
-    "timeMonth": 1354,
-    "timeYear": 1354,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1324,
+    "timeDay": 795,
+    "timeWeek": 1324,
+    "timeMonth": 1324,
+    "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-01-30": 0
+      "2023-01-30": 9
     }
   },
   {
