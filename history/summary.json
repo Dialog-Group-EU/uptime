@@ -4,18 +4,20 @@
     "url": "https://dialoggroup.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dialoggroup.eu.ico",
     "slug": "dialog-group-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 907,
     "timeDay": 39,
-    "timeWeek": 891,
+    "timeWeek": 893,
     "timeMonth": 907,
     "timeYear": 907,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-02": 0
+    }
   },
   {
     "name": "Digitale Collega Website",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 1583,
     "timeDay": 12,
-    "timeWeek": 863,
+    "timeWeek": 868,
     "timeMonth": 1583,
     "timeYear": 1583,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 824,
     "timeDay": 45,
-    "timeWeek": 527,
+    "timeWeek": 523,
     "timeMonth": 824,
     "timeYear": 824,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 1129,
     "timeDay": 192,
-    "timeWeek": 731,
+    "timeWeek": 722,
     "timeMonth": 1129,
     "timeYear": 1129,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 1111,
     "timeDay": 157,
-    "timeWeek": 678,
+    "timeWeek": 667,
     "timeMonth": 1111,
     "timeYear": 1111,
     "dailyMinutesDown": {}
