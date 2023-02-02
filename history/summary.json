@@ -4,19 +4,19 @@
     "url": "https://dialoggroup.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dialoggroup.eu.ico",
     "slug": "dialog-group-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 39,
-    "timeWeek": 893,
-    "timeMonth": 907,
-    "timeYear": 907,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 882,
+    "timeDay": 40,
+    "timeWeek": 861,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-02-02": 0
+      "2023-02-02": 8
     }
   },
   {
