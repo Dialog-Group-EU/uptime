@@ -42,17 +42,17 @@
     "url": "https://slimmeformulieren.eu",
     "icon": "https://icons.duckduckgo.com/ip3/slimmeformulieren.eu.ico",
     "slug": "slimme-formulieren-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "91.92%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
-    "time": 618,
-    "timeDay": 22,
-    "timeWeek": 32,
-    "timeMonth": 618,
-    "timeYear": 618,
+    "time": 605,
+    "timeDay": 19,
+    "timeWeek": 30,
+    "timeMonth": 605,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2023-02-13": 116
     }
