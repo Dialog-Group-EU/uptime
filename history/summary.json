@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/slimmeformulieren.eu.ico",
     "slug": "slimme-formulieren-website",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 378,
     "timeDay": 37,
     "timeWeek": 424,
@@ -121,9 +121,9 @@
     "url": "$COMMUNICATE_EUCENTRAL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/precisely.com.ico",
     "slug": "engage-one-communicate-eu-central",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
@@ -133,6 +133,7 @@
     "timeMonth": 2477,
     "timeYear": 3044,
     "dailyMinutesDown": {
+      "2023-03-25": 0,
       "2023-03-23": 18,
       "2023-02-28": 31
     }
