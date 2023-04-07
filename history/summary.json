@@ -4,9 +4,9 @@
     "url": "https://dialoggroup.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dialoggroup.eu.ico",
     "slug": "dialog-group-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 60,
     "timeMonth": 51,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-07": 0
+    }
   },
   {
     "name": "Digitale Collega Website",
@@ -104,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/precisely.com.ico",
     "slug": "engage-one-communicate-authentication-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.87%",
     "time": 1233,
     "timeDay": 1036,
     "timeWeek": 830,
     "timeMonth": 865,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2023-04-07": 0
+      "2023-04-07": 131
     }
   },
   {
@@ -124,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/precisely.com.ico",
     "slug": "engage-one-communicate-eu-central",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.80%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.80%",
     "time": 2900,
     "timeDay": 1935,
     "timeWeek": 1854,
     "timeMonth": 2296,
     "timeYear": 2900,
     "dailyMinutesDown": {
-      "2023-04-07": 0,
+      "2023-04-07": 130,
       "2023-03-25": 26,
       "2023-03-23": 18,
       "2023-02-28": 31
