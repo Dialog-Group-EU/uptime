@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/slimmeformulieren.eu.ico",
     "slug": "slimme-formulieren-website",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.21%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 251,
     "timeDay": 32,
     "timeWeek": 44,
@@ -89,9 +89,9 @@
     "url": "https://insurance.1dialog.eu",
     "icon": "https://icons.duckduckgo.com/ip3/insurance.1dialog.eu.ico",
     "slug": "insurance-demo-1-dialog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
@@ -101,6 +101,7 @@
     "timeMonth": 105,
     "timeYear": 353,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-05-08": 40,
       "2023-03-19": 30
     }
