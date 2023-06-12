@@ -191,19 +191,19 @@
     "url": "https://api.chatlayer.ai",
     "icon": "https://icons.duckduckgo.com/ip3/docs.chatlayer.ai.ico",
     "slug": "chatlayer",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 78,
     "timeDay": 532,
     "timeWeek": 247,
     "timeMonth": 109,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2023-06-12": 12
+      "2023-06-12": 0
     }
   }
 ]
