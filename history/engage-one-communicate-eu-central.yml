@@ -1,7 +1,7 @@
 url: $COMMUNICATE_EUCENTRAL_URL
-status: up
-code: 200
-responseTime: 4222
-lastUpdated: 2023-09-28T23:11:58.089Z
+status: down
+code: 401
+responseTime: 2570
+lastUpdated: 2023-09-29T07:23:23.262Z
 startTime: 2023-01-27T14:50:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
