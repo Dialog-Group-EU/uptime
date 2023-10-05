@@ -1,7 +1,7 @@
 url: https://api.chatlayer.ai
-status: down
-code: 502
-responseTime: 2970
-lastUpdated: 2023-10-05T11:25:31.258Z
+status: up
+code: 200
+responseTime: 43
+lastUpdated: 2023-10-05T11:34:43.158Z
 startTime: 2023-01-30T08:20:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
