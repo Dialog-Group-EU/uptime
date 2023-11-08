@@ -173,18 +173,20 @@
     "url": "https://eu-west-1-mt-prod2.engageone.video/statuscheck/videoPlayer.php",
     "icon": "https://icons.duckduckgo.com/ip3/precisely.com.ico",
     "slug": "engage-one-video-eu-west-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 416,
-    "timeWeek": 323,
-    "timeMonth": 337,
-    "timeYear": 327,
-    "dailyMinutesDown": {}
+    "time": 326,
+    "timeDay": 252,
+    "timeWeek": 294,
+    "timeMonth": 329,
+    "timeYear": 326,
+    "dailyMinutesDown": {
+      "2023-11-08": 0
+    }
   },
   {
     "name": "EngageOne Video EU-West Pre-Prod",
