@@ -121,9 +121,9 @@
     "url": "$COMMUNICATE_AUTHAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/precisely.com.ico",
     "slug": "engage-one-communicate-authentication-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -133,6 +133,7 @@
     "timeMonth": 1178,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2024-01-25": 0,
       "2023-09-29": 19,
       "2023-06-13": 84,
       "2023-04-07": 182
