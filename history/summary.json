@@ -26,19 +26,19 @@
     "url": "https://digitalecollega.eu",
     "icon": "https://icons.duckduckgo.com/ip3/digitalecollega.eu.ico",
     "slug": "digitale-collega-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 22,
-    "timeWeek": 24,
+    "timeDay": 26,
+    "timeWeek": 25,
     "timeMonth": 25,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2024-02-24": 0
+      "2024-02-24": 9
     }
   },
   {
